@@ -1,6 +1,10 @@
-## Welcome to BloomSage - Team 9 Organisation
-AI-powered floral classification, encyclopedia, and product recommendation system for enhancing modern online flower retailing platforms.
-## Contribution
+# Team 9 - Denominator
+
+## Application:
+
+BloomSage: AI-powered floral classification, encyclopedia, and product recommendation system for enhancing modern online flower retailing platforms.
+
+## Contributors
 
 | Student Name         | Student ID |
 |:---------------------|:-----------|
