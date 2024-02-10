@@ -11,6 +11,6 @@ BloomSage: AI-powered floral classification, encyclopedia, and product recommend
 | Do Le Long An        | s3963207  |
 | Nguyen Phuong Nam    | s3877256  |
 | Vo Tuong Minh (Mike) | s3877562  |
-| Tran Minh Nha        | s3924826  |
+| Tran Minh Nhat       | s3924826  |
 
 
